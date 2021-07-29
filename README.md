@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @leannmendoza
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning sematic segmentation using Keras
-- 💞️ I’m looking to collaborate on fun ML projects
 - 📫 You can reach me through email at leannmarie.mendoza@gmail.com
 
 <!---
